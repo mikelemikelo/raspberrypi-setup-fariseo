@@ -20,7 +20,7 @@ rm apache-maven-3.2.5-bin.tar.gz
 sudo sudoedit /etc/profile.d/maven.sh
 
 
-Add to the nano:
+Add to nano:
 ```
 export M2_HOME=/opt/apache-maven-3.2.5
 export "PATH=$PATH:$M2_HOME/bin"
