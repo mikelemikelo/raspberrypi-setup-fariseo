@@ -3,5 +3,5 @@ Fariseo raspberry setup
 
 ### ssh into rasp:
 
-ssh pi@LOCALIP 
+ssh pi@LOCAL_IP 
 
