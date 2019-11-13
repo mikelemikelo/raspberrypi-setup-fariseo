@@ -1,3 +1,4 @@
+
 # raspberrypi-setup-fariseo
 Fariseo raspberry setup
 
@@ -30,3 +31,6 @@ To save , hold Control and X, confirm and enter.
 
 Restart shell to confirm updates.
 
+
+
+jro-> edoyqqpstv-> xzf
